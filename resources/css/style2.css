@@ -1,8 +1,6 @@
-h1 {background-image: url (https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-    height: 50%;
-    width: 50%;
-    margin: 25% 25% 25% 25%;
-    text-align: center;
+h1 {background-image: url( ../images/the-flatiron-building.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: Helvetica;
     font-size: 70px;
     font-weight: bold;
@@ -24,16 +22,10 @@ footer {font-family: Helvetica;
             background-color: dimgray;
             text-align: left;
           }
-.mid {background-image: url (https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+.mid {background-image: background-image: url( ../images/the-flatiron-building.png);
   font-family: Helvetica;
       font-size: 23px;
       font-weight: bold;
       color: green;
       text-align: center;
     }
-.intro {height: 50%;
-width: 50%;
-margin: 25% 25% 25% 25%;
-text-align: center;
-font-family: Helvetica;
-}
