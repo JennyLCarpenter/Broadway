@@ -1,10 +1,10 @@
-h1 {background-image: url( ../images/the-flatiron-building.png);
+.top {background-image: url( ../images/the-flatiron-building.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Helvetica;
     font-size: 70px;
     font-weight: bold;
-    color: black;
+    color: white;
 }
 h2 {font-family: Helvetica;
     font-size: 32px;
@@ -22,7 +22,7 @@ footer {font-family: Helvetica;
             background-color: dimgray;
             text-align: left;
           }
-.mid {background-image: background-image: url( ../images/the-flatiron-building.png);
+.mid {background-image: url( ../images/the-flatiron-building.png);
   font-family: Helvetica;
       font-size: 23px;
       font-weight: bold;
