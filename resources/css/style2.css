@@ -1,5 +1,3 @@
-* {text-align: center;
-}
 h1 #container {background-image: url (../images/the-flatiron-building.png);
     height: 50%;
     width: 50%;
@@ -32,3 +30,9 @@ footer {font-family: Helvetica;
       color: green;
       text-align: center;
     }
+.intro {height: 50%;
+width: 50%;
+margin: 25% 25% 25% 25%;
+text-align: center;
+font-family: Helvetica;  
+}
