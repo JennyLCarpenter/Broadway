@@ -1,10 +1,10 @@
 html {margin: auto;
 }
-h1 {background-image: (././the-flatiron-building.png);
+h1 {background-image: (./resources/images/the-flatiron-building.png);
     font-family: Helvetica;
     font-size: 70px;
     font-weight: bold;
-    color: white;
+    color: black;
 }
 h2 {font-family: Helvetica;
     font-size: 32px;
