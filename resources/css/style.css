@@ -1,8 +1,21 @@
-<<<<<<< HEAD
-h1 {background-image: url (././the-flatiron-building.png");
-=======
-h1 {background-image: url ("././the-flatiron-building.png");
->>>>>>> 9676c6c1c45d4eeb6f6c85d82acf142239ea3017
-    font-family: Helvetica;
-    text-align: center;
+* {margin: auto;
 }
+h1 {background-image: url (././the-flatiron-building.png);
+    font-family: Helvetica;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+h2 {font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  h3 {font-size: 23px;
+      font-weight: bold;
+      font-family: Helvetica;
+    }
+    footer {font-family: Helvetica;
+            font-size: 11px;
+            color: white;
+            background-color: dimgray;
+          }
