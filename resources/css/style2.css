@@ -23,3 +23,5 @@ footer {font-family: Helvetica;
       color: white;
     }
 .top {position: absolute;}
+.container {position: relative;
+}
