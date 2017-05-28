@@ -1,6 +1,6 @@
 * {text-align: center;
 }
-h1 {background-image: url ('../images/the-flatiron-building.png');
+h1 {background-image: url (.. /resources/images/the-flatiron-building.png);
     font-family: Helvetica;
     font-size: 70px;
     font-weight: bold;
@@ -20,6 +20,7 @@ footer {font-family: Helvetica;
             font-size: 11px;
             color: white;
             background-color: dimgray;
+            text-align: left;
           }
 .mid {font-family: Helvetica;
       font-size: 23px;
