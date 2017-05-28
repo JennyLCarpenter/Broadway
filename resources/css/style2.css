@@ -23,5 +23,8 @@ footer {font-family: Helvetica;
       color: white;
     }
 .top {position: absolute;}
-.container {position: relative;
+.container {height: 300px;
+            width: 300px;
+            margin: 10px auto;
+            position: relative;
 }
