@@ -1,4 +1,4 @@
-h1 #container {background-image: url (../images/the-flatiron-building.png);
+h1 #container {background-image: url (../../images/the-flatiron-building.png);
     height: 50%;
     width: 50%;
     margin: 25% 25% 25% 25%;
@@ -34,5 +34,5 @@ footer {font-family: Helvetica;
 width: 50%;
 margin: 25% 25% 25% 25%;
 text-align: center;
-font-family: Helvetica;  
+font-family: Helvetica;
 }
