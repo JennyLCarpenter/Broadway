@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 h1 {background-image: url (././the-flatiron-building.png");
+=======
+h1 {background-image: url ("././the-flatiron-building.png");
+>>>>>>> 9676c6c1c45d4eeb6f6c85d82acf142239ea3017
     font-family: Helvetica;
     text-align: center;
 }
