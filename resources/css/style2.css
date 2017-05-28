@@ -1,4 +1,5 @@
 h1 {background-image: url ("./resources/images/the-flatiron-building.png");
+    position: absolute;
     font-family: Helvetica;
     font-size: 70px;
     font-weight: bold;
